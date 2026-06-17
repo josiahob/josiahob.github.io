@@ -21,10 +21,10 @@ main:
  #   url: /portfolio/
 
   - title: "CV"
-    url: /cv/
+    url: /files/JosiahAIsafety.pdf
     
   - title: "Blog Posts"
-    url: /year-archive/
+    url: "https://josiahwrites.hashnode.dev/"
     
     
   # - title: "CV"
