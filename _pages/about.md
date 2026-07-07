@@ -19,13 +19,13 @@ Beyond my AI safety work, I co-host a podcast called Still Figuring Tech Out, wh
 
 # Selected Projects
 
-Evaluating LLM Reasoning in High-Stakes Security Contexts (ongoing):
-
+**Evaluating LLM Reasoning in High-Stakes Security Contexts (ongoing):**
 An ongoing research project developing a vignette-based evaluation framework to assess how large language models reason through security incident triage scenarios. Each vignette presents a realistic, ambiguous incident with incomplete information, probing whether models can make calibrated judgments under uncertainty and time pressure.  The work aims to contribute a structured failure taxonomy for LLM decision-making in high-stakes security contexts, targeting a workshop submission.
 
+**EU AI Act Consultation — Critical Infrastructure (ongoing):**
+An ongoing contribution to a structured consultation on the EU AI Act, where i focus specifically on Section 3.2: Governing High-Risk AI Systems in Critical Infrastructure. Drawing on my cybersecurity and GRC background to assess ambiguities in risk classification and contribute practitioner perspectives on how the regulatory framework maps onto real operational security environments.
 
-ML Network Intrusion Detection Pipeline:
-
+**ML Network Intrusion Detection Pipeline:**
 A production-ready MLOps pipeline for network intrusion detection, built on the UNSW-NB15 benchmark dataset. The pipeline automates training and hyperparameter tuning across three ensemble models: Random Forest, Extra Trees, and Gradient Boosting, while selecting the best performer based on accuracy and F1-score, with Extra Trees achieving ~94.5% accuracy. The system includes a FastAPI-based REST API for real-time predictions, a web interface, and privacy-preserving transformations including IP anonymization and sensitive data masking. [Repo](https://github.com/josiahob/ML_Intrusion_Detection.git)
 
 <!--
