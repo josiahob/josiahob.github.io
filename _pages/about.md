@@ -15,10 +15,23 @@ I have since moved into independent research on AI safety, including work on gov
 
 Beyond my AI safety work, I co-host a podcast called Still Figuring Tech Out, where we discuss the world of emerging technology from a security perspective, and also help early-career techies break into the field as we navigate it ourselves.
 
+
+
+# Selected Projects
+
+Evaluating LLM Reasoning in High-Stakes Security Contexts (ongoing):
+
+An ongoing research project developing a vignette-based evaluation framework to assess how large language models reason through security incident triage scenarios. Each vignette presents a realistic, ambiguous incident with incomplete information, probing whether models can make calibrated judgments under uncertainty and time pressure.  The work aims to contribute a structured failure taxonomy for LLM decision-making in high-stakes security contexts, targeting a workshop submission.
+
+
+ML Network Intrusion Detection Pipeline:
+
+A production-ready MLOps pipeline for network intrusion detection, built on the UNSW-NB15 benchmark dataset. The pipeline automates training and hyperparameter tuning across three ensemble models: Random Forest, Extra Trees, and Gradient Boosting, while selecting the best performer based on accuracy and F1-score, with Extra Trees achieving ~94.5% accuracy. The system includes a FastAPI-based REST API for real-time predictions, a web interface, and privacy-preserving transformations including IP anonymization and sensitive data masking. [Repo](https://github.com/josiahob/ML_Intrusion_Detection.git)
+
 <!--
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
+
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
