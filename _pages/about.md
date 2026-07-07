@@ -13,7 +13,7 @@ Professionally, I spent time as a Cybersecurity Governance, Risk and Compliance 
 
 I have since moved into independent research on AI safety, including work on governing AI red-teaming, prompt injection in LLMs, and adversarial machine learning. I was recently accepted into the AI Safety Fundamentals Fellowship, run by MIT's AI Alignment group. 
 
-Beyond my AI safety work, I co-host a podcast called Still Figuring Tech Out, where we discuss the world of emerging technology from a security perspective, and also help early-career techies break into the field as we navigate it ourselves.
+Beyond my AI safety work, I co-host a podcast called _Still Figuring Tech Out_, where we discuss the world of emerging technology from a security perspective, and also help early-career techies break into the field as we navigate it ourselves.
 
 
 
@@ -21,7 +21,7 @@ Beyond my AI safety work, I co-host a podcast called Still Figuring Tech Out, wh
 
 **Evaluating LLM Reasoning in High-Stakes Security Contexts (ongoing):**
 
-An ongoing research project developing a vignette-based evaluation framework to assess how large language models reason through security incident triage scenarios. Each vignette presents a realistic, ambiguous incident with incomplete information, probing whether models can make calibrated judgments under uncertainty and time pressure.  The work aims to contribute a structured failure taxonomy for LLM decision-making in high-stakes security contexts, targeting a workshop submission.
+An ongoing research project developing a vignette-based evaluation framework to assess how large language models reason through security incident triage scenarios. Each vignette presents a realistic, ambiguous incident with incomplete information, probing whether models can make calibrated judgments under uncertainty and time pressure.  The work aims to contribute a structured failure taxonomy for LLM decision-making in high-stakes security contexts, targeting NeurIPS 2026 ML Safety workshop.
 
 **EU AI Act Consultation — Critical Infrastructure (ongoing):**
 
