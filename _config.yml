@@ -23,7 +23,7 @@ repository               : "josiahob/josiahob.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "josiah.jpg"
+  avatar           : "josiahpicture.png"
   name             : "Josiah Obeka"
   pronouns         : # example: "she/her"  
   bio              : " AI Safety | Cybersecurity"
